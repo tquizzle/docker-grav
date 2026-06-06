@@ -1,4 +1,4 @@
-FROM php:8.4-apache@sha256:f136434142729ffb11936a2dadd898812bbbc94eae23e9e1b2476b81e313eea0
+FROM php:8.5-apache@sha256:670ca5334e4c3b6ef13f70b86b542c09272795fef1653f1b774ea0f3eefd1892
 LABEL maintainer="Andy Miller <rhuk@getgrav.org> (@rhukster)"
 
 # Enable Apache Rewrite + Expires Module
